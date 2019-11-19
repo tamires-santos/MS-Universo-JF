@@ -3,3 +3,5 @@
 # MANUTENÇÃO DE SOFTWARE
 ## PROF. BRUNO ZONOVELLI
 ### 2019.2 - <<**Tamires Santos**>>
+
+Motivação para seguir como Analísta de Sistema: Alcançar objetivos pessoais exercendo funções que gosto de fazer.
